@@ -13,3 +13,7 @@ How to Run:
 5. Open browser link shown in terminal
 
 6. Paste reviews and click Analyze Sentiment
+
+Output:
+<img width="1334" height="637" alt="image" src="https://github.com/user-attachments/assets/206f65b6-2b64-473e-ba9d-b17c00d11406" />
+
